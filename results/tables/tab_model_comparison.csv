@@ -1,0 +1,6 @@
+Model,Average precision,Average precision (sd),ROC AUC,ROC AUC (sd),F1 at threshold 0.5,F1 at threshold 0.5 (sd)
+Always ham (baseline),0.125,0.0,0.5,0.0,0.0,0.0
+Word counts + Naive Bayes,0.954,0.018,0.972,0.015,0.936,0.016
+TF-IDF + Naive Bayes,0.943,0.017,0.976,0.011,0.739,0.038
+Word counts + Logistic Regression,0.955,0.018,0.98,0.008,0.9,0.014
+TF-IDF + Logistic Regression,0.96,0.014,0.986,0.004,0.834,0.031
