@@ -1,0 +1,8 @@
+Dimension,Check,Ham,Spam,Total,% of ham,% of spam
+Completeness,Empty or whitespace-only message,0,0,0,0.0,0.0
+Uniqueness,Duplicate of an earlier message (same label and text),309,94,403,6.4,12.6
+Consistency,Same text with conflicting labels,0,0,0,0.0,0.0
+Formatting,Leading or trailing whitespace,156,31,187,3.2,4.1
+Formatting,HTML-escaped characters (&lt; &gt; &amp;),309,0,309,6.4,0.0
+Formatting,"Placeholder instead of original content (e.g. &lt;#&gt;, &lt;TIME&gt;)",236,0,236,4.9,0.0
+Encoding,Windows control character instead of punctuation (e.g. \x92),33,2,35,0.7,0.3

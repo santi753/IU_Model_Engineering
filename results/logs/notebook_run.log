@@ -1,9 +1,19 @@
-2026-09-17 14:38:50 | INFO | Python       3.12.3
-2026-09-17 14:38:50 | INFO | Interpreter  c:\AAAsantiago\IU Data Science\Semestres\6 Sexto semestre\Model Engineering\Code\IU_Model_Engineering\.venv\Scripts\python.exe
-2026-09-17 14:38:50 | INFO | numpy        2.5.3
-2026-09-17 14:38:50 | INFO | pandas       3.0.5
-2026-09-17 14:38:50 | INFO | scikit-learn 1.9.1
-2026-09-17 14:38:50 | INFO | matplotlib   3.11.2
-2026-09-17 14:38:50 | INFO | Project root C:\AAAsantiago\IU Data Science\Semestres\6 Sexto semestre\Model Engineering\Code\IU_Model_Engineering
-2026-09-17 14:38:50 | INFO | Raw data     SMSSpamCollection.csv (477907 bytes)
-2026-09-17 14:38:50 | INFO | SHA-256      7d039a24a6083ed9ef0f806ebad56bbb976e3aeb8de05669173bfdc4996c239d
+2026-09-17 15:16:43 | INFO | Python       3.12.3
+2026-09-17 15:16:43 | INFO | Interpreter  C:\AAAsantiago\IU Data Science\Semestres\6 Sexto semestre\Model Engineering\Code\IU_Model_Engineering\.venv\Scripts\python.exe
+2026-09-17 15:16:43 | INFO | numpy        2.5.3
+2026-09-17 15:16:43 | INFO | pandas       3.0.5
+2026-09-17 15:16:43 | INFO | scikit-learn 1.9.1
+2026-09-17 15:16:43 | INFO | matplotlib   3.11.2
+2026-09-17 15:16:43 | INFO | Project root C:\AAAsantiago\IU Data Science\Semestres\6 Sexto semestre\Model Engineering\Code\IU_Model_Engineering
+2026-09-17 15:16:43 | INFO | Raw data     SMSSpamCollection.csv (477907 bytes)
+2026-09-17 15:16:43 | INFO | SHA-256      7d039a24a6083ed9ef0f806ebad56bbb976e3aeb8de05669173bfdc4996c239d
+2026-09-17 15:16:44 | INFO | Non-empty lines in raw file: 5574
+2026-09-17 15:16:44 | INFO | Loaded with explicit settings: 5574 rows, 2 columns
+2026-09-17 15:16:44 | INFO | Loaded with default quote handling: 5572 rows (2 messages lost, 1 row(s) with merged lines)
+2026-09-17 15:16:44 | INFO | ham : 4827 messages (86.6%) | documented: 4827
+2026-09-17 15:16:44 | INFO | spam: 747 messages (13.4%) | documented: 747
+2026-09-17 15:16:44 | INFO | Structural checks passed: row count, label values and label counts match
+2026-09-17 15:19:38 | INFO | All messages:    ham 4827, spam 747 (spam share 13.4%)
+2026-09-17 15:19:38 | INFO | Unique messages: ham 4518, spam 653 (spam share 12.6%)
+2026-09-17 15:19:38 | INFO | Saved tab_data_quality.csv
+2026-09-17 15:23:43 | INFO | Saved tab_message_length.csv

@@ -1,0 +1,3 @@
+label,Median characters,Mean characters,Min characters,Max characters,Median words,Mean words,Min words,Max words
+ham,52.0,71.5,2,910,11.0,14.3,1,171
+spam,149.0,138.7,13,223,25.0,23.9,2,35
