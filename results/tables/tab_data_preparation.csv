@@ -1,0 +1,4 @@
+Step,Ham,Spam,Total,Spam share (%)
+Raw data,4827,747,5574,13.4
+After text cleaning,4827,747,5574,13.4
+After removing duplicates,4518,642,5160,12.4
