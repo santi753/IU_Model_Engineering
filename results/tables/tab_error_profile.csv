@@ -1,0 +1,5 @@
+Group,Messages,Median characters,Contains digits (%)
+All legitimate (test set),904,52,13.8
+Legitimate held back (error),11,32,0.0
+All spam (test set),128,146,95.3
+Spam displayed (error),10,143,80.0
