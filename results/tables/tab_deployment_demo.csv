@@ -1,0 +1,10 @@
+Message type,Message (shortened),Risk level,Spam score,Decision
+Clear spam,You have WON a guaranteed £1000 cash or a £2000 prize.To cla,Low risk (very restrictive),0.963,Review folder
+Clear spam,You have WON a guaranteed £1000 cash or a £2000 prize.To cla,Medium risk,0.963,Review folder
+Clear spam,You have WON a guaranteed £1000 cash or a £2000 prize.To cla,High risk (not restrictive),0.963,Review folder
+Clear legitimate,That's my honeymoon outfit. :),Low risk (very restrictive),0.005,Displayed immediately
+Clear legitimate,That's my honeymoon outfit. :),Medium risk,0.005,Displayed immediately
+Clear legitimate,That's my honeymoon outfit. :),High risk (not restrictive),0.005,Displayed immediately
+Borderline legitimate,Have you laid your airtel line to rest?,Low risk (very restrictive),0.238,Review folder
+Borderline legitimate,Have you laid your airtel line to rest?,Medium risk,0.238,Displayed immediately
+Borderline legitimate,Have you laid your airtel line to rest?,High risk (not restrictive),0.238,Displayed immediately

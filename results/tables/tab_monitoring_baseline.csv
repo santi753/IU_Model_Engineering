@@ -1,0 +1,7 @@
+Indicator,Reference value
+Messages sent to the review folder at Low risk (very restrictive) (%),29.0
+Messages sent to the review folder at Medium risk (%),12.5
+Messages sent to the review folder at High risk (not restrictive) (%),10.2
+Median spam score of all messages,0.046
+Unknown words per message (%),7.6
+Spam share of all messages (%),12.4

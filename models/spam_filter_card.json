@@ -1,0 +1,26 @@
+{
+  "model": "TF-IDF + Logistic Regression",
+  "trained_on": {
+    "messages": 4128,
+    "spam": 514
+  },
+  "data_file": {
+    "name": "SMSSpamCollection.csv",
+    "sha256": "7d039a24a6083ed9ef0f806ebad56bbb976e3aeb8de05669173bfdc4996c239d"
+  },
+  "random_state": 42,
+  "scikit_learn_version": "1.9.1",
+  "risk_thresholds": {
+    "Low risk (very restrictive)": 0.073,
+    "Medium risk": 0.245,
+    "High risk (not restrictive)": 0.395
+  },
+  "test_metrics": {
+    "Average precision": 0.961,
+    "ROC AUC": 0.993,
+    "Accuracy at 0.5": 0.96,
+    "Precision at 0.5": 0.968,
+    "Recall at 0.5": 0.703,
+    "F1 at 0.5": 0.814
+  }
+}
