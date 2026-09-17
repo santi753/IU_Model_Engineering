@@ -1,0 +1,4 @@
+Risk level,Threshold,Spam caught,Spam displayed,Legitimate held back,Recall (%),Precision (%),"To review folder per 1,000 messages"
+Low risk (very restrictive),0.073,128 of 128,0,171 of 904,100.0,42.8,290
+Medium risk,0.245,118 of 128,10,11 of 904,92.2,91.5,125
+High risk (not restrictive),0.395,101 of 128,27,4 of 904,78.9,96.2,102
