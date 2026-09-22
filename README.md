@@ -27,6 +27,9 @@ pip install -r requirements.txt
 python -m jupyter lab
 ```
 
+On macOS or Linux, create and activate the environment with `python3.12 -m venv .venv` and
+`source .venv/bin/activate`; the remaining commands are the same.
+
 Then open `notebooks/spam_filter.ipynb` and run **Kernel > Restart Kernel and Run All Cells**. The
 random seed is fixed at 42 for every split and model, so the reported numbers reproduce exactly. The
 recorded run used Python 3.12.3 with the versions pinned in `requirements.txt`, among them
@@ -36,7 +39,7 @@ scikit-learn 1.9.1, pandas 3.0.5, numpy 2.5.3 and matplotlib 3.11.2.
 
 SMS Spam Collection (Almeida & Hidalgo, 2011), UCI Machine Learning Repository,
 https://doi.org/10.24432/C5CC84, licensed under CC BY 4.0. The file in `data/raw` is unmodified; the
-notebook verifies its SHA-256 before use:
+notebook checks its SHA-256 before use and stops if it differs:
 
 ```
 7d039a24a6083ed9ef0f806ebad56bbb976e3aeb8de05669173bfdc4996c239d
